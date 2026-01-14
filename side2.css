@@ -1,0 +1,30 @@
+ 
+header{
+    display: flex;
+    justify-content: space-around;
+ 
+}
+header{
+    background-color: black;
+    color: rgb(21, 20, 20);
+}
+
+main{background-image:none ;}
+
+ {
+    font-size: 20px;
+}
+ 
+nav a {
+    color: white;
+    text-decoration: none;
+}
+ 
+nav a:visited {
+    color: white;
+ 
+}
+ 
+nav a:hover {
+    color: lightgray;
+}

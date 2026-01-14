@@ -1,0 +1,74 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+
+.kamper{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    gap: 20px;
+}
+
+.imgdan {
+    display: block;
+}
+
+.heading{
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+}
+
+.heading h1{
+    margin: 0;
+    text-align: center;
+}
+
+.Tid {
+font-family: 'Century Gothic';
+line-height: 1.5;
+margin-top: 10px;
+margin-left: calc(350px + 20px);
+width: 33%;
+}
+
+p {
+    font-family: 'Century Gothic';
+    font-size: 20px;
+    margin: 5px 0;
+}
+.Treningstider-text{
+    display: flex;
+    justify-content: center;
+    margin-top: -300px;
+    margin-left: 40px;
+    
+
+    }
+.lenke{
+    display: flex;
+    justify-content: end;
+    margin-right: 50px;
+}
+
+body{
+    background-color: #94bee6;
+}
+
+a{
+    font-size: 20px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+nav a:visited{
+    color: white;
+
+}
+nav a:hover{
+    color: lightgray;
+}

@@ -1,0 +1,72 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #ffffff;
+    background-color: black;
+    
+
+}
+
+body{
+  background-image: url('/goaliefocus.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+main{
+  
+.cta-column {
+  position: absolute;
+  top: 40%;      
+  left: 11%;      
+  display: flex;
+  flex-direction: column;
+  gap: 300px;     
+  max-width: fit-content;
+}
+
+.cta-box {
+  background-color: #94bee6;
+  color: white;
+  font-style: calibri;
+  font-size: 35px;
+  padding: 10px 10px;
+  font-family: cal;
+  white-space: nowrap; 
+
+}
+
+.logo-score{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15vh;
+    margin-left: 70vh;
+    
+    
+}
+
+img {
+  height: 55vh;
+}
+
+}
+
+a{
+    font-size: 20px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+nav a:visited{
+    color: white;
+
+}
+nav a:hover{
+    color: lightgray;
+}
+a{
+font-size: 6px;
+}
